@@ -11,7 +11,7 @@ The AFFN model we proposed is as:
 
 The defferent experiment scenaire are as:
 
-![The defferent experiment scenaire are as:](https://github.com/JeSuisUnProgrammeur/auxiliary-feature-fusion-network-speech-inversion-/blob/main/Experimentsetting.png)
+![The defferent experiment scenaire are as:](https://github.com/JeSuisUnProgrammeur/AFFN/blob/main/Experiment%20setup.png)
 
 
 
