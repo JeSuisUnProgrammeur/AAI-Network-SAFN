@@ -1,4 +1,4 @@
-# auxiliary-feature-fusion-network-speech-inversion
+# Auxiliary-feature-fusion-network-speech-inversion
 
 The pytorch code implementation of the paper: 
 
