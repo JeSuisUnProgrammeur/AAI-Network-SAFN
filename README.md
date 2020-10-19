@@ -6,7 +6,7 @@ SPEAKER-INDEPENDENT ACOUSTIC-TO-ARTICULATORY INVERSION BASED ON SPEECH SEPARATIO
 
 ![The AFFN model we proposed is as:](auxiliary-feature-network-speech-inversion-/figure1.jpg)
 
-![The defferent experiment scenaire are as:](auxiliary-feature-network-speech-inversion-/Experimentsetting.png)
+![The defferent experiment scenaire are as:](https://github.com/JeSuisUnProgrammeur/auxiliary-feature-fusion-network-speech-inversion-/blob/main/Experimentsetting.png)
 
 The following details are details:
 
