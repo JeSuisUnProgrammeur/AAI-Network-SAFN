@@ -4,9 +4,9 @@ The pytorch code implementation of the paper:
 
 SPEAKER-INDEPENDENT ACOUSTIC-TO-ARTICULATORY INVERSION BASED ON SPEECH SEPARATION AND AUXILIARY FEATURE FUSION
 
-The AFFN model we proposed is as:
+The SAFN model we proposed is as:
 
-![The AFFN model we proposed is as:](https://github.com/JeSuisUnProgrammeur/auxiliary-feature-fusion-network-speech-inversion-/blob/main/figure1.jpg)
+![The SAFN model we proposed is as:](https://github.com/JeSuisUnProgrammeur/auxiliary-feature-fusion-network-speech-inversion-/blob/main/figure1.jpg)
 
 
 The defferent experiment scenaire are as:
