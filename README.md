@@ -2,7 +2,7 @@
 
 The pytorch code implementation of the paper: 
 
-SPEAKER-INDEPENDENT ACOUSTIC-TO-ARTICULATORY INVERSION BASED ON SPEECH SEPARATION AND AUXILIARY FEATURE FUSION
+Speaker-independent Acoustic-to-Articulatory Inversion based on Speech Decomposition and Auxiliary Feature
 
 The SAFN model we proposed is as:
 
