@@ -1,4 +1,4 @@
-# Auxiliary-feature-fusion-network-speech-inversion
+# Speech-Decomposition-Auxiliary-Feature-Feature-Transformer-Network
 
 The pytorch code implementation of the paper: 
 
