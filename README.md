@@ -13,8 +13,9 @@ The defferent experiment scenaire are as:
 
 ![The defferent experiment scenaire are as:](https://github.com/JeSuisUnProgrammeur/AFFN/blob/main/Experiment%20setup.png)
 
+The sesult of the experiment is:
 
-
+![The sesult of the experiment is:](https://github.com/JeSuisUnProgrammeur/auxiliary-feature-fusion-network-speech-inversion-/blob/main/figure4.jpg)
 The following details are details:
 
 pytorchtools.py contains of some important method functions.
